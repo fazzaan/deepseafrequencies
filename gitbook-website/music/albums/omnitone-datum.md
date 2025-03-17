@@ -9,7 +9,7 @@ coverY: 0
 
 _Deep Sea Frequencies_ is proud to present the debut EP from Omnitone. Emotive melodies interwoven with punchy kicks and warm sub-bass invites you to follow us on this journey through glitchy soundscapes and broken beats, as Omnitone weaves hypnotic percussion delicately through each track. The beautiful sound design and intricate composition will leave you feeling uplifted and wanting to move your feet!
 
-<table data-header-hidden><thead><tr><th width="121" valign="top"></th><th></th></tr></thead><tbody><tr><td valign="top">Released</td><td><em>September 30, 2022</em></td></tr><tr><td valign="top">Mastering</td><td><p><em>Saxon Higgs (Brujo's Bowl &#x26; Beatroots) at</em> <a href="https://www.facebook.com/universalpressures"><em>Universal Pressures</em></a> </p><p><a href="../../artists/mastering/universal-pressures.md"><em>DSF/Universal Pressures</em></a> </p></td></tr><tr><td valign="top">Artwork</td><td><p>Artwork by Rhythmic Visions (Louie Chant) </p><p><a href="https://www.facebook.com/LouieChantArt">www.facebook.com/LouieChantArt</a> </p><p><a href="../../artists/graphic/louie-chant.md">DSF/Louie Chant</a> </p></td></tr><tr><td valign="top">Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/datum">psychedelicjelly.bandcamp.com/album/datum</a></td></tr><tr><td valign="top">SoundCloud</td><td><a href="https://soundcloud.com/omnitonemusic/sets/datum-ep">soundcloud.com/omnitonemusic/sets/datum-ep</a></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="121" valign="top"></th><th></th></tr></thead><tbody><tr><td valign="top">Released</td><td><em>September 30, 2022</em></td></tr><tr><td valign="top">Mastering</td><td><p><em>Saxon Higgs (Brujo's Bowl &#x26; Beatroots) at</em> <a href="https://www.facebook.com/universalpressures"><em>Universal Pressures</em></a> </p><p><a href="../../artists/mastering/universal-pressures.md"><em>DSF/Universal Pressures</em></a> </p></td></tr><tr><td valign="top">Artwork</td><td><p>Artwork by Rhythmic Visions (Louie Chant) </p><p><a href="https://www.facebook.com/LouieChantArt">www.facebook.com/LouieChantArt</a> </p><p><a href="../../artists/graphic/rhythmic-visions-louie-chant.md">DSF/Louie Chant</a> </p></td></tr><tr><td valign="top">Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/datum">psychedelicjelly.bandcamp.com/album/datum</a></td></tr><tr><td valign="top">SoundCloud</td><td><a href="https://soundcloud.com/omnitonemusic/sets/datum-ep">soundcloud.com/omnitonemusic/sets/datum-ep</a></td></tr></tbody></table>
 
 ## Buy to support
 
@@ -37,7 +37,7 @@ _Deep Sea Frequencies_ is proud to present the debut EP from Omnitone. Emotive m
 
 Artwork created by Rhythmic Visions (Louie Chant) — [facebook.com/LouieChantArt](https://www.facebook.com/LouieChantArt)&#x20;
 
-[DSF/Louie Chant](../../artists/graphic/louie-chant.md)&#x20;
+[DSF/Louie Chant](../../artists/graphic/rhythmic-visions-louie-chant.md)&#x20;
 
 _Click to view larger_
 

@@ -1,2 +1,6 @@
-# Mouldy Soul
+---
+coverY: 0
+---
+
+# Mouldy Soul
 

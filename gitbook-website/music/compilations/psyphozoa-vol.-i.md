@@ -19,7 +19,7 @@ layout:
 
 # Psyphozoa Vol. I
 
-<table data-header-hidden><thead><tr><th width="144"></th><th></th></tr></thead><tbody><tr><td>Released</td><td><em>March 26, 2020</em></td></tr><tr><td>Mastering</td><td><p><em>Sanial McCormick —</em> <a href="https://soundcloud.com/sanial"><em>soundcloud.com/sanial</em></a> </p><p><a href="../../artists/mastering/sanial-mccormick.md"><em>DSF/Sanial McCormick</em></a> </p></td></tr><tr><td>Artwork</td><td><p>Hägen Zillmann </p><p><a href="https://www.facebook.com/ZillmannIllustrations/">facebook.com/ZillmannIllustrations</a> </p><p><a href="../../artists/graphic/odd-zilla.md">DSF/Odd Zilla</a> </p></td></tr><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/psyphozoa">https://psychedelicjelly.bandcamp.com/album/psyphozoa</a></td></tr><tr><td>SoundCloud</td><td><a href="https://soundcloud.com/psyjelly/sets/psyphozoa-va">https://soundcloud.com/psyjelly/sets/psyphozoa-va</a> </td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="144"></th><th></th></tr></thead><tbody><tr><td>Released</td><td><em>March 26, 2020</em></td></tr><tr><td>Mastering</td><td><p><em>Sanial McCormick —</em> <a href="https://soundcloud.com/sanial"><em>soundcloud.com/sanial</em></a> </p><p><a href="../../artists/mastering/sanial-mccormick.md"><em>DSF/Sanial McCormick</em></a> </p></td></tr><tr><td>Artwork</td><td><p>Hägen Zillmann </p><p><a href="https://www.facebook.com/ZillmannIllustrations/">facebook.com/ZillmannIllustrations</a> </p><p><a href="../../artists/graphic/odd-zilla-hagen-zillmann.md">DSF/Odd Zilla</a> </p></td></tr><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/psyphozoa">https://psychedelicjelly.bandcamp.com/album/psyphozoa</a></td></tr><tr><td>SoundCloud</td><td><a href="https://soundcloud.com/psyjelly/sets/psyphozoa-va">https://soundcloud.com/psyjelly/sets/psyphozoa-va</a> </td></tr></tbody></table>
 
 _Deep Sea Frequencies_ is proud to present a delicious mix of sounds by some of the best producers from across the ocean. _Scyphozoa_, or the ‘True Jellyfish’, is an exclusive marine class of jellyfish — likewise, the artists on this compilation are in a class of their own!
 
@@ -43,7 +43,7 @@ _Soundcloud playlist may be unavailable at this time._
 
 Artwork by Hägen Zillmann&#x20;
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Odd Zilla on Facebook</td><td><a href="https://www.facebook.com/ZillmannIllustrations/">https://www.facebook.com/ZillmannIllustrations/</a></td></tr><tr><td>Odd Zilla on DSF</td><td><a href="../../artists/graphic/odd-zilla.md">odd-zilla.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Odd Zilla on Facebook</td><td><a href="https://www.facebook.com/ZillmannIllustrations/">https://www.facebook.com/ZillmannIllustrations/</a></td></tr><tr><td>Odd Zilla on DSF</td><td><a href="../../artists/graphic/odd-zilla-hagen-zillmann.md">odd-zilla-hagen-zillmann.md</a></td></tr></tbody></table>
 
 _Click to view larger_&#x20;
 

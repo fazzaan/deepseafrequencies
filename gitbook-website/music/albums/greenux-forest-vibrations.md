@@ -13,7 +13,7 @@ The juxtaposition between his first track and the second is what makes this E.P 
 
 _Description by Dylan Moss Writing_
 
-<table data-header-hidden><thead><tr><th width="128" valign="top"></th><th></th></tr></thead><tbody><tr><td valign="top">Released</td><td><em>January 28, 2022</em></td></tr><tr><td valign="top">Mastering</td><td><p><em>Saxon Higgs (Brujo's Bowl &#x26; Beatroots) at</em> <a href="https://www.facebook.com/universalpressures"><em>Universal Pressures</em></a> </p><p><a href="../../artists/mastering/universal-pressures.md"><em>DSF/Universal Pressures</em></a> </p></td></tr><tr><td valign="top">Artwork</td><td><p>Artwork by Rhythmic Visions (Louie Chant) </p><p><a href="https://www.facebook.com/LouieChantArt">www.facebook.com/LouieChantArt</a> </p><p><a href="../../artists/graphic/louie-chant.md">DSF/Louie Chant</a> </p></td></tr><tr><td valign="top">Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/forest-vibrations">psychedelicjelly.bandcamp.com/album/forest-vibrations</a></td></tr><tr><td valign="top">SoundCloud</td><td><a href="https://soundcloud.com/greenux/sets/forest-vibrations">soundcloud.com/greenux/sets/forest-vibrations</a></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="128" valign="top"></th><th></th></tr></thead><tbody><tr><td valign="top">Released</td><td><em>January 28, 2022</em></td></tr><tr><td valign="top">Mastering</td><td><p><em>Saxon Higgs (Brujo's Bowl &#x26; Beatroots) at</em> <a href="https://www.facebook.com/universalpressures"><em>Universal Pressures</em></a> </p><p><a href="../../artists/mastering/universal-pressures.md"><em>DSF/Universal Pressures</em></a> </p></td></tr><tr><td valign="top">Artwork</td><td><p>Artwork by Rhythmic Visions (Louie Chant) </p><p><a href="https://www.facebook.com/LouieChantArt">www.facebook.com/LouieChantArt</a> </p><p><a href="../../artists/graphic/rhythmic-visions-louie-chant.md">DSF/Louie Chant</a> </p></td></tr><tr><td valign="top">Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/forest-vibrations">psychedelicjelly.bandcamp.com/album/forest-vibrations</a></td></tr><tr><td valign="top">SoundCloud</td><td><a href="https://soundcloud.com/greenux/sets/forest-vibrations">soundcloud.com/greenux/sets/forest-vibrations</a></td></tr></tbody></table>
 
 ## Buy to support
 
@@ -41,7 +41,7 @@ _Description by Dylan Moss Writing_
 
 Artwork created by Rhythmic Visions (Louie Chant) — [facebook.com/LouieChantArt](https://www.facebook.com/LouieChantArt)&#x20;
 
-[DSF/Louie Chant](../../artists/graphic/louie-chant.md)&#x20;
+[DSF/Louie Chant](../../artists/graphic/rhythmic-visions-louie-chant.md)&#x20;
 
 _Click to view larger_
 

@@ -3,13 +3,21 @@ cover: ../../.gitbook/assets/Eschosphere - Omni Fluctuations - v6.jpg
 coverY: 0
 ---
 
-# EchoSphere - Omni Fluctuations
+# EchoSphere - Omni Fluctuations
 
 <table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/omni-fluctuations">https://psychedelicjelly.bandcamp.com/album/omni-fluctuations</a></td></tr><tr><td>SoundCloud</td><td><a href="https://soundcloud.com/psyjelly/sets/echosphere-omni-fluctuations">https://soundcloud.com/psyjelly/sets/echosphere-omni-fluctuations</a></td></tr><tr><td><em>More music by EchoSphere</em></td><td><a href="../../artists/music/echosphere.md">echosphere.md</a></td></tr></tbody></table>
 
-When a radicle emerges from a plant embryo, it descends into the ground and continues the process of germination. Much like the radicle, Psybur is emerging with a strong musical voice and has been digging into deeper realms of sound design and production to bring you his sophomore release, “Radicle Roots.” The music is grown from the inspirational seeds of dub and roots reggae and then germinated with elements of psytrance sound design to bring you something fresh and, dare I say, _radical_.
+_And so returns the psychedelic magician that is EchoSphere with his newest release Omni Fluctuations._
 
-<table data-header-hidden><thead><tr><th width="128" valign="top"></th><th></th></tr></thead><tbody><tr><td valign="top">Released</td><td>May 20, 2021</td></tr><tr><td valign="top">Mastering</td><td><p><em>Sanial McCormick —</em> <a href="https://soundcloud.com/sanial"><em>soundcloud.com/sanial</em></a> </p><p><a href="../../artists/mastering/sanial-mccormick.md"><em>DSF/Sanial McCormick</em></a> </p></td></tr><tr><td valign="top">Artwork</td><td><p>Artwork by Rhythmic Visions (Louie Chant) </p><p><a href="https://www.facebook.com/LouieChantArt">www.facebook.com/LouieChantArt</a> </p><p><a href="../../artists/graphic/louie-chant.md">DSF/Louie Chant</a> </p></td></tr><tr><td valign="top">Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/omni-fluctuations">https://psychedelicjelly.bandcamp.com/album/omni-fluctuations</a></td></tr><tr><td valign="top">SoundCloud</td><td><p><a href="https://soundcloud.com/psyjelly/sets/echosphere-omni-fluctuations">https://soundcloud.com/psyjelly/sets/echosphere-omni-fluctuations</a></p><p><a href="https://soundcloud.com/echospheres/sets/omni-fluctuations">https://soundcloud.com/echospheres/sets/omni-fluctuations</a> </p></td></tr></tbody></table>
+Whilst maintaining the unique sounds of the EchoSphere vibrations, Omni Fluctuations is an eight track album that brings with it a more playful and interactive sound, exploring the spaces between the psychedelic bass genres and finding within an evolving and electric journey of omnidirectional sounds.
+
+Inhaling waves of the infinite, exhaling breath of the eternal, EchoSphere refuses to limit himself to one single strain of listening experience.
+
+Striving to take us through his Omni Fluctuational frequencies, we drift fast and slow through vast interstellar seas of deep basslines, funky melodic ingredients and elastic rhythms.
+
+Omni Fluctuations brings a new flavour of psychedelic music within each track.
+
+<table data-header-hidden><thead><tr><th width="128" valign="top"></th><th></th></tr></thead><tbody><tr><td valign="top">Released</td><td>May 20, 2021</td></tr><tr><td valign="top">Mastering</td><td><p><em>Sanial McCormick —</em> <a href="https://soundcloud.com/sanial"><em>soundcloud.com/sanial</em></a> </p><p><a href="../../artists/mastering/sanial-mccormick.md"><em>DSF/Sanial McCormick</em></a> </p></td></tr><tr><td valign="top">Artwork</td><td><p>Artwork by Rhythmic Visions (Louie Chant) </p><p><a href="https://www.facebook.com/LouieChantArt">www.facebook.com/LouieChantArt</a> </p><p><a href="../../artists/graphic/rhythmic-visions-louie-chant.md">DSF/Louie Chant</a> </p></td></tr><tr><td valign="top">Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/omni-fluctuations">https://psychedelicjelly.bandcamp.com/album/omni-fluctuations</a></td></tr><tr><td valign="top">SoundCloud</td><td><p><a href="https://soundcloud.com/psyjelly/sets/echosphere-omni-fluctuations">https://soundcloud.com/psyjelly/sets/echosphere-omni-fluctuations</a></p><p><a href="https://soundcloud.com/echospheres/sets/omni-fluctuations">https://soundcloud.com/echospheres/sets/omni-fluctuations</a> </p></td></tr></tbody></table>
 
 ## Buy to support
 
@@ -37,7 +45,7 @@ When a radicle emerges from a plant embryo, it descends into the ground and cont
 
 Artwork created by Rhythmic Visions (Louie Chant) — [facebook.com/LouieChantArt](https://www.facebook.com/LouieChantArt)&#x20;
 
-[DSF/Louie Chant](../../artists/graphic/louie-chant.md)&#x20;
+[DSF/Louie Chant](../../artists/graphic/rhythmic-visions-louie-chant.md)&#x20;
 
 _Click to view larger_
 
