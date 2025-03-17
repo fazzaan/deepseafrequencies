@@ -17,6 +17,7 @@
   * [Voicheck - Unity](music/albums/voicheck-unity.md)
   * [Whirlin' Merlin - Viva La Wobble](music/albums/echosphere-a-time-for-change-1.md)
   * [The MoonRakers - Space Time](music/albums/echosphere-a-time-for-change-1-1.md)
+  * [Fractal Forest - Solistic remix (Essence Project)](music/albums/echosphere-a-time-for-change-1-2.md)
 * [Compilations](music/compilations/README.md)
   * [Psyphozoa Vol. III](music/compilations/psyphozoa-vol.-iii.md)
   * [Psyphozoa Vol. II](music/compilations/psyphozoa-vol.-ii.md)
