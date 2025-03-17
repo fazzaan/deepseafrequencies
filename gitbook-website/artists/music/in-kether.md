@@ -2,11 +2,11 @@
 
 ## Quick info
 
-<table data-header-hidden><thead><tr><th width="171"></th><th></th></tr></thead><tbody><tr><td>Facebook</td><td></td></tr><tr><td>Soundcloud</td><td><a href="https://soundcloud.com/inkether">https://soundcloud.com/inkether</a></td></tr><tr><td>Location</td><td>Amsterdam, the Netherlands</td></tr><tr><td>Members</td><td>Abel Keeven and Frodi Fransman</td></tr><tr><td>Record labels</td><td></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="171"></th><th></th></tr></thead><tbody><tr><td>Facebook</td><td><a href="https://www.facebook.com/inkether">https://www.facebook.com/inkether</a> </td></tr><tr><td>Soundcloud</td><td><a href="https://soundcloud.com/inkether">https://soundcloud.com/inkether</a></td></tr><tr><td>Location</td><td>Amsterdam, the Netherlands</td></tr><tr><td>Members</td><td>Abel Keeven and Frodi Fransman</td></tr><tr><td>Record labels</td><td>Deep Sea Frequencies</td></tr></tbody></table>
+
+## Releases
 
 <table data-view="cards"><thead><tr><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><a href="../../music/albums/in-kether-sun-dance.md">in-kether-sun-dance.md</a></td><td><a href="../../.gitbook/assets/In Kether - Sun Dance.png">In Kether - Sun Dance.png</a></td></tr></tbody></table>
-
-
 
 ## Who are In Kether?
 

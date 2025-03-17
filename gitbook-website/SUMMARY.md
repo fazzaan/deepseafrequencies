@@ -9,6 +9,7 @@
   * [Fractal Forest - Emergence](music/albums/fractal-forest-emergence.md)
   * [Voicheck - Unity](music/albums/voicheck-unity.md)
   * [In Kether - Sun Dance](music/albums/in-kether-sun-dance.md)
+  * [Psybur - Frequency Flyers](music/albums/psybur-frequency-flyers.md)
 * [Compilations](music/compilations/README.md)
   * [Psyphozoa Vol. III](music/compilations/psyphozoa-vol.-iii.md)
   * [Psyphozoa Vol. II](music/compilations/psyphozoa-vol.-ii.md)
@@ -42,11 +43,13 @@
 
 * [Music](artists/music/README.md)
   * [Auspice](artists/music/auspice.md)
-  * [In Kether](artists/music/in-kether.md)
   * [Beatroots](artists/music/beatroots.md)
   * [Fractal Forest](artists/music/fractal-forest.md)
+  * [In Kether](artists/music/in-kether.md)
   * [Sanial](artists/music/sanial.md)
+  * [sabrina's aura (sundaze)](artists/music/sabrinas-aura-sundaze.md)
   * [Mouldy Soul](artists/music/mouldy-soul.md)
+  * [Psybur](artists/music/psybur.md)
   * [Voicheck](artists/music/voicheck.md)
 * [Graphic](artists/graphic/README.md)
   * [Antonia Tisserande](artists/graphic/antonia-tisserande.md)
@@ -62,6 +65,7 @@
 * [Mastering](artists/mastering/README.md)
   * [Universal Pressures](artists/mastering/universal-pressures.md)
   * [Sanial McCormick](artists/mastering/sanial-mccormick.md)
+  * [Psybur](artists/mastering/psybur.md)
 
 ## Events
 

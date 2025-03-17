@@ -19,7 +19,7 @@ layout:
 
 # Cubozoa Vol. I
 
-<table data-header-hidden><thead><tr><th width="144"></th><th></th></tr></thead><tbody><tr><td>Released</td><td><em>April 29, 2020</em></td></tr><tr><td>Mastering</td><td><em>Mastering by Sanial McCormick —</em> <a href="https://soundcloud.com/sanial"><em>soundcloud.com/sanial</em></a> <em>|</em> <a href="../../artists/mastering/sanial-mccormick.md"><em>DSF/Sanial McCormick</em></a> </td></tr><tr><td>Artwork</td><td>Darius Gilbey — <a href="https://www.facebook.com/profile.php?id=100063595416416">facebook.com/profile.php?id=100063595416416</a> | <a href="../../artists/graphic/darius-gilbey.md">DSF/Darius Gilbey</a> </td></tr><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/cubozoa">https://psychedelicjelly.bandcamp.com/album/cubozoa</a></td></tr><tr><td>SoundCloud</td><td>?</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="144"></th><th></th></tr></thead><tbody><tr><td>Released</td><td><em>April 29, 2020</em></td></tr><tr><td>Mastering</td><td><p><em>Sanial McCormick —</em> <a href="https://soundcloud.com/sanial"><em>soundcloud.com/sanial</em></a> </p><p><a href="../../artists/mastering/sanial-mccormick.md"><em>DSF/Sanial McCormick</em></a> </p></td></tr><tr><td>Artwork</td><td><p>Darius Gilbey </p><p><a href="https://www.facebook.com/profile.php?id=100063595416416">facebook.com/profile.php?id=100063595416416</a></p><p><a href="../../artists/graphic/darius-gilbey.md">DSF/Darius Gilbey</a> </p></td></tr><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/cubozoa">https://psychedelicjelly.bandcamp.com/album/cubozoa</a></td></tr><tr><td>SoundCloud</td><td>?</td></tr></tbody></table>
 
 ## Buy to support
 
