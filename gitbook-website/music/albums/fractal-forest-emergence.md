@@ -11,6 +11,8 @@ coverY: 0
 
 ## Buy to support
 
+[Buy on Bandcamp to support the artists directly!](https://psychedelicjelly.bandcamp.com/album/emergence)&#x20;
+
 {% embed url="https://psychedelicjelly.bandcamp.com/album/emergence" %}
 
 ## Listen
@@ -23,7 +25,7 @@ coverY: 0
 
 {% embed url="https://www.youtube.com/watch?v=6kIKZUtBWQY" %}
 
-## &#x20;Tracklist
+## Tracklist
 
 <table data-header-hidden><thead><tr><th width="43"></th><th width="491"></th><th width="74"></th></tr></thead><tbody><tr><td>1.</td><td><a href="https://psychedelicjelly.bandcamp.com/track/curbside-downtempo-mix">Fractal Forest &#x26; The MoonRakers - Curbside (Downtempo Mix)</a> </td><td>05:19</td></tr><tr><td>2.</td><td><a href="https://psychedelicjelly.bandcamp.com/track/im-not-usually-like-this">I'm Not Usually Like This</a> </td><td>03:56</td></tr><tr><td>3.</td><td><a href="https://psychedelicjelly.bandcamp.com/track/cogs-in-the-machine">Cogs In The Machine</a> </td><td>04:56</td></tr><tr><td>4.</td><td><a href="https://psychedelicjelly.bandcamp.com/track/feelings">Feelings</a> </td><td>04:00</td></tr></tbody></table>
 

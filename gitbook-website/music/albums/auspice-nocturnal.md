@@ -11,6 +11,8 @@ coverY: 0
 
 ## Buy to support
 
+[Buy on Bandcamp to support the artists directly!](https://psychedelicjelly.bandcamp.com/album/nocturnal)&#x20;
+
 {% embed url="https://psychedelicjelly.bandcamp.com/album/nocturnal" %}
 
 ## Listen
