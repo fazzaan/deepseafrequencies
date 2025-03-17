@@ -35,7 +35,7 @@ coverY: 0
 
 Artwork created by Daniel Joyce (Bubblewrap) — IG [@bubblewraplighting](https://www.instagram.com/bubblewraplighting/)
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th></tr></thead><tbody><tr><td>Bubblewrap on Instagram</td><td><a href="https://instagram.com/bubblewraplighting">https://instagram.com/bubblewraplighting</a></td></tr><tr><td>Bubblewrap on DSF</td><td><a href="../../artists/graphic/bubblewrap-daniel-joyce.md">bubblewrap-daniel-joyce.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Bubblewrap on Instagram</td><td><a href="https://instagram.com/bubblewraplighting">https://instagram.com/bubblewraplighting</a></td></tr><tr><td>Bubblewrap on DSF</td><td><a href="../../artists/graphic/bubblewrap-daniel-joyce.md">bubblewrap-daniel-joyce.md</a></td></tr></tbody></table>
 
 _Click to view larger_
 
