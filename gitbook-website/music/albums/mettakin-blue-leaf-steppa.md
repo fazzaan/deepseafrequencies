@@ -9,6 +9,8 @@ coverY: 0
 
 <table data-header-hidden><thead><tr><th width="156" valign="top"></th><th></th></tr></thead><tbody><tr><td valign="top">Released</td><td>October 31, 2022</td></tr><tr><td valign="top">Mastering</td><td><p><em>Saxon Higgs (Brujo's Bowl &#x26; Beatroots) at</em> <a href="https://www.facebook.com/universalpressures"><em>Universal Pressures</em></a> </p><p><a href="../../artists/mastering/universal-pressures.md"><em>DSF/Universal Pressures</em></a> </p></td></tr><tr><td valign="top">Artwork</td><td>MettāKin</td></tr><tr><td valign="top">Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/blue-leaf-steppa">https://psychedelicjelly.bandcamp.com/album/blue-leaf-steppa</a></td></tr><tr><td valign="top">SoundCloud</td><td><a href="https://soundcloud.com/mettakin/sets/blue-leaf-steppa">https://soundcloud.com/mettakin/sets/blue-leaf-steppa</a> </td></tr></tbody></table>
 
+Mettākin makes his _Deep Sea Frequencies_ debut with a psychedelic steppa dub album! Deep psydub meeting reggae steppa and trance/dub techno style, with organic and digital atmospherics and melodies, carried by dubwise techniques and heavy bass. The haunting vocals and pretty melodies draw you in, while the dubby bass and squelchy sound effects make you want to groove!
+
 ## Buy to support
 
 [Buy on Bandcamp to support the artists directly!](https://psychedelicjelly.bandcamp.com/album/blue-leaf-steppa)&#x20;

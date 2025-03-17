@@ -33,4 +33,8 @@ coverY: 0
 
 ## Artwork
 
+Artwork by Rhythmic Visions (Louie Chant) — [facebook.com/LouieChantArt](https://www.facebook.com/LouieChantArt)&#x20;
+
+[DSF/Louie Chant](../../artists/graphic/louie-chant.md)&#x20;
+
 <figure><img src="../../.gitbook/assets/Voicheck - Unity.jpg" alt=""><figcaption></figcaption></figure>
