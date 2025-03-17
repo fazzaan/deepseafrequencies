@@ -1,13 +1,5 @@
 # Social media
 
-## Music channels
-
-|                            |   |   |
-| -------------------------- | - | - |
-| Bandcamp store & streaming |   |   |
-| SoundCloud streaming       |   |   |
-| MixCloud event sets        |   |   |
-
 ## News channels
 
 |                          |   |   |

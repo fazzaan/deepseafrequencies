@@ -16,6 +16,7 @@
   * [The MoonRakers - Moonlighting](music/albums/the-moonrakers-moonlighting.md)
   * [Voicheck - Unity](music/albums/voicheck-unity.md)
   * [Whirlin' Merlin - Viva La Wobble](music/albums/echosphere-a-time-for-change-1.md)
+  * [The MoonRakers - Space Time](music/albums/echosphere-a-time-for-change-1-1.md)
 * [Compilations](music/compilations/README.md)
   * [Psyphozoa Vol. III](music/compilations/psyphozoa-vol.-iii.md)
   * [Psyphozoa Vol. II](music/compilations/psyphozoa-vol.-ii.md)
@@ -92,9 +93,13 @@
 * [Photography](photography/README.md)
   * [Limerick's Photography](photography/limericks-photography.md)
 
-## Follow & Contact
+## About Us
 
-* [Social media](follow-and-contact/social-media.md)
+* [Our Ethos](about-us/our-ethos.md)
+* [Who we are](about-us/who-we-are.md)
+* [Music outlets](about-us/social-media.md)
+* [Social media](about-us/social-media-1.md)
+* [Contact us](about-us/contact-us.md)
 
 ## Admin
 
