@@ -27,6 +27,7 @@
   * [Geoglyph - Geolinguistic Remixes](music/albums/geoglyph-geolinguistic-remixes.md)
   * [Darklord Gob - Realm of Forms](music/albums/darklord-gob-realm-of-forms.md)
   * [The MoonRakers - "It is Psychedelic but it's Not Trance"](music/albums/the-moonrakers-it-is-psychedelic-but-its-not-trance.md)
+  * [Faelow - Floating Underground](music/albums/faelow-floating-underground.md)
   * [Sanial - Introspection](music/albums/sanial-introspection.md)
 * [Compilations](music/compilations/README.md)
   * [Psyphozoa Vol. III](music/compilations/psyphozoa-vol.-iii.md)
@@ -61,6 +62,7 @@
 
 * [Music](artists/music/README.md)
   * [Auspice](artists/music/auspice.md)
+  * [Faelow](artists/music/faelow.md)
   * [Darklord Gob](artists/music/darklord-gob.md)
   * [Geoglyph](artists/music/geoglyph.md)
   * [Kwah](artists/music/kwah.md)
