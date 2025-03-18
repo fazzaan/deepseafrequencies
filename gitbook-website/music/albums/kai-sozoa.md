@@ -5,7 +5,7 @@ coverY: 0
 
 # Kai - Sozoa
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/sozoa">https://psychedelicjelly.bandcamp.com/album/sozoa</a></td></tr><tr><td>SoundCloud</td><td><a href="https://soundcloud.com/psyjelly/sets/kai-sozoa">https://soundcloud.com/psyjelly/sets/kai-sozoa</a></td></tr><tr><td><em>More music by Kai</em></td><td><a href="../../artists/music/auspice-1.md">auspice-1.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/sozoa">https://psychedelicjelly.bandcamp.com/album/sozoa</a></td></tr><tr><td>SoundCloud</td><td><a href="https://soundcloud.com/psyjelly/sets/kai-sozoa">https://soundcloud.com/psyjelly/sets/kai-sozoa</a></td></tr><tr><td><em>More music by Kai</em></td><td><a href="../../artists/music/kai.md">kai.md</a></td></tr></tbody></table>
 
 _Deep Sea Frequencies_ is proud to present the debut EP from Sardinian producer Kai. Delve into the deep atmospheric textures of "Sozoa", complimented with world instruments and dark basslines!
 
@@ -31,7 +31,7 @@ _Deep Sea Frequencies_ is proud to present the debut EP from Sardinian producer 
 
 <table data-header-hidden><thead><tr><th width="40"></th><th width="147"></th><th width="79"></th></tr></thead><tbody><tr><td>1.</td><td><a href="https://psychedelicjelly.bandcamp.com/track/kazim">Kazim</a> </td><td>07:00</td></tr><tr><td>2.</td><td><a href="https://psychedelicjelly.bandcamp.com/track/lutes">Lutes</a> </td><td>06:01</td></tr><tr><td>3.</td><td><a href="https://psychedelicjelly.bandcamp.com/track/scope-excursus">Scope Excursus</a> </td><td>07:17</td></tr></tbody></table>
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/sozoa">https://psychedelicjelly.bandcamp.com/album/sozoa</a></td></tr><tr><td>SoundCloud</td><td><a href="https://soundcloud.com/psyjelly/sets/kai-sozoa">https://soundcloud.com/psyjelly/sets/kai-sozoa</a></td></tr><tr><td><em>More music by Kai</em></td><td><a href="../../artists/music/auspice-1.md">auspice-1.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/sozoa">https://psychedelicjelly.bandcamp.com/album/sozoa</a></td></tr><tr><td>SoundCloud</td><td><a href="https://soundcloud.com/psyjelly/sets/kai-sozoa">https://soundcloud.com/psyjelly/sets/kai-sozoa</a></td></tr><tr><td><em>More music by Kai</em></td><td><a href="../../artists/music/kai.md">kai.md</a></td></tr></tbody></table>
 
 ## Artwork
 

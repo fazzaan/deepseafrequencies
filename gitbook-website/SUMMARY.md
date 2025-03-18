@@ -73,7 +73,7 @@
   * [Darklord Gob](artists/music/darklord-gob.md)
   * [Faelow](artists/music/faelow.md)
   * [Geoglyph](artists/music/geoglyph.md)
-  * [Kai](artists/music/auspice-1.md)
+  * [Kai](artists/music/kai.md)
   * [Key-G](artists/music/key-g.md)
   * [Kwah](artists/music/kwah.md)
   * [Illusive Tuna](artists/music/illusive-tuna.md)
