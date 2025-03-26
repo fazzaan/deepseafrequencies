@@ -119,7 +119,6 @@
   * [Sanial McCormick](artists/mastering/sanial-mccormick.md)
   * [Psybur](artists/mastering/psybur.md)
   * [Ovoid](artists/mastering/ovoid.md)
-* [Performers](artists/performers.md)
 
 ## Events
 
@@ -127,11 +126,9 @@
 * [2024](events/2024/README.md)
   * [An Event Template Page](events/2024/an-event-template-page.md)
   * [October 17 - 20th Event](events/2024/october-17-20th-event.md)
-
-***
-
-* [Photography](photography/README.md)
-  * [Limerick's Photography](photography/limericks-photography.md)
+* [Performers](events/performers.md)
+* [Photography](events/photography/README.md)
+  * [Limerick's Photography](events/photography/limericks-photography.md)
 
 ## About Us
 
