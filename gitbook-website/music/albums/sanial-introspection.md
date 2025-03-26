@@ -5,42 +5,42 @@ coverY: 0
 
 # Sanial - Introspection
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/omni-fluctuations">https://psychedelicjelly.bandcamp.com/album/omni-fluctuations</a></td></tr><tr><td>SoundCloud</td><td><a href="https://soundcloud.com/psyjelly/sets/echosphere-omni-fluctuations">https://soundcloud.com/psyjelly/sets/echosphere-omni-fluctuations</a></td></tr><tr><td><em>More music by EchoSphere</em></td><td><a href="../../artists/music/echosphere.md">echosphere.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/introspection">https://psychedelicjelly.bandcamp.com/album/introspection</a></td></tr><tr><td>SoundCloud</td><td><a href="https://soundcloud.com/psyjelly/sets/sanial-introspection">https://soundcloud.com/psyjelly/sets/sanial-introspection</a></td></tr><tr><td><em>More music by Sanial</em></td><td><a href="../../artists/music/sanial.md">sanial.md</a></td></tr></tbody></table>
 
-Following on from Sanial’s “Introspection” release, we find ourselves immersed in a sea of mid-tempo psybass. A harder, faster expression of forward motion sounds, Sanial has plunged the depths of his psychee and what has been brought up From The Depth is dark, ethereal and trippy as fuck.
+> #### <mark style="color:purple;">**i n t r o s p e c t i o n**</mark> <mark style="color:purple;"></mark>  <mark style="color:purple;"></mark><mark style="color:purple;">\[noun]</mark>
+>
+> _The observation or examination of one's own mental and emotional state, mental processes, etc.; the act of looking within oneself._
 
-Dredging fourth sounds of the subconscious, deep atmospheric tones plucked from synaptical caverns, paired with crisp, undulating and dynamic beats — echoes of the abyss.
-
-<table data-header-hidden><thead><tr><th width="128" valign="top"></th><th></th></tr></thead><tbody><tr><td valign="top">Released</td><td>May 20, 2021</td></tr><tr><td valign="top">Mastering</td><td><p><em>Sanial McCormick —</em> <a href="https://soundcloud.com/sanial"><em>soundcloud.com/sanial</em></a> </p><p><a href="../../artists/mastering/sanial-mccormick.md"><em>DSF/Sanial McCormick</em></a> </p></td></tr><tr><td valign="top">Artwork</td><td><p>Artwork by Rhythmic Visions (Louie Chant) </p><p><a href="https://www.facebook.com/LouieChantArt">www.facebook.com/LouieChantArt</a> </p><p><a href="../../artists/graphic/rhythmic-visions-louie-chant.md">DSF/Louie Chant</a> </p></td></tr><tr><td valign="top">Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/omni-fluctuations">https://psychedelicjelly.bandcamp.com/album/omni-fluctuations</a></td></tr><tr><td valign="top">SoundCloud</td><td><p><a href="https://soundcloud.com/psyjelly/sets/echosphere-omni-fluctuations">https://soundcloud.com/psyjelly/sets/echosphere-omni-fluctuations</a></p><p><a href="https://soundcloud.com/echospheres/sets/omni-fluctuations">https://soundcloud.com/echospheres/sets/omni-fluctuations</a> </p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="128" valign="top"></th><th></th></tr></thead><tbody><tr><td valign="top">Released</td><td>May 1, 2020</td></tr><tr><td valign="top">Mastering</td><td>Colin Bennun @ Stooodio Mastering - <a href="mailto:colin@oood.net">colin@oood.net</a> </td></tr><tr><td valign="top">Artwork</td><td>Sanial</td></tr><tr><td valign="top">Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/introspection">psychedelicjelly.bandcamp.com/album/introspection</a> </td></tr><tr><td valign="top">SoundCloud</td><td><a href="https://soundcloud.com/psyjelly/sets/sanial-introspection">soundcloud.com/psyjelly/sets/sanial-introspection</a> </td></tr></tbody></table>
 
 ## Buy to support
 
-[Buy on Bandcamp to support the artists directly!](https://psychedelicjelly.bandcamp.com/album/omni-fluctuations)&#x20;
+[Buy on Bandcamp to support the artists directly!](https://psychedelicjelly.bandcamp.com/album/introspection)&#x20;
 
-{% embed url="https://psychedelicjelly.bandcamp.com/album/omni-fluctuations" %}
+{% embed url="https://psychedelicjelly.bandcamp.com/album/introspection" %}
 
 ## Listen
 
 ### Soundcloud
 
-{% embed url="https://soundcloud.com/psyjelly/sets/echosphere-omni-fluctuations" %}
+{% embed url="https://soundcloud.com/psyjelly/sets/sanial-introspection" %}
 
 ### YouTube
 
-{% embed url="https://www.youtube.com/watch?v=6SwKw5Tt7lY" %}
+{% embed url="https://www.youtube.com/watch?v=59mVQHf3lXE" %}
 
 ## Tracklist
 
-<table data-header-hidden><thead><tr><th width="40"></th><th width="241"></th><th width="71"></th></tr></thead><tbody><tr><td>1.</td><td><a href="https://psychedelicjelly.bandcamp.com/track/sonic-exploration">Sonic Exploration</a> 09:52</td><td></td></tr><tr><td>2.</td><td><a href="https://psychedelicjelly.bandcamp.com/track/back-to-that-state">Back to That State</a> 09:27</td><td></td></tr><tr><td>3.</td><td><a href="https://psychedelicjelly.bandcamp.com/track/green-men-in-my-brain">Green Men in My Brain</a> 07:07</td><td></td></tr><tr><td>4.</td><td><a href="https://psychedelicjelly.bandcamp.com/track/alchemy">Alchemy</a> 08:28</td><td></td></tr><tr><td>5.</td><td><a href="https://psychedelicjelly.bandcamp.com/track/mid-wiggle-breath">Mid Wiggle Breath</a> 06:52</td><td></td></tr><tr><td>6.</td><td><a href="https://psychedelicjelly.bandcamp.com/track/celestial-twerk">Celestial Twerk</a> 06:45</td><td></td></tr><tr><td>7.</td><td><a href="https://psychedelicjelly.bandcamp.com/track/flow">Flow</a> 05:52</td><td></td></tr><tr><td>8.</td><td><a href="https://psychedelicjelly.bandcamp.com/track/king-of-the-jellies">King of the Jellies</a> 08:59</td><td></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="40"></th><th width="237.3333740234375"></th><th width="87.44439697265625"></th></tr></thead><tbody><tr><td>1.</td><td><a href="https://psychedelicjelly.bandcamp.com/track/introspection">Introspection</a> </td><td>10:01</td></tr><tr><td>2.</td><td><a href="https://psychedelicjelly.bandcamp.com/track/delve">Delve</a> </td><td>05:05</td></tr><tr><td>3.</td><td><a href="https://psychedelicjelly.bandcamp.com/track/accomplish">Accomplish</a> </td><td>05:53</td></tr><tr><td>4.</td><td><a href="https://psychedelicjelly.bandcamp.com/track/something-about-the-sense">Something About The Sense</a> </td><td>04:07</td></tr></tbody></table>
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/omni-fluctuations">https://psychedelicjelly.bandcamp.com/album/omni-fluctuations</a></td></tr><tr><td>SoundCloud</td><td><a href="https://soundcloud.com/psyjelly/sets/echosphere-omni-fluctuations">https://soundcloud.com/psyjelly/sets/echosphere-omni-fluctuations</a></td></tr><tr><td><em>More music by EchoSphere</em></td><td><a href="../../artists/music/echosphere.md">echosphere.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/introspection">https://psychedelicjelly.bandcamp.com/album/introspection</a></td></tr><tr><td>SoundCloud</td><td><a href="https://soundcloud.com/psyjelly/sets/sanial-introspection">https://soundcloud.com/psyjelly/sets/sanial-introspection</a></td></tr><tr><td><em>More music by Sanial</em></td><td><a href="../../artists/music/sanial.md">sanial.md</a></td></tr></tbody></table>
 
 ## Artwork
 
-Artwork created by Rhythmic Visions (Louie Chant) — [facebook.com/LouieChantArt](https://www.facebook.com/LouieChantArt)&#x20;
+Artwork created by [sanial.md](../../artists/music/sanial.md "mention").
 
-[DSF/Louie Chant](../../artists/graphic/rhythmic-visions-louie-chant.md)&#x20;
+Font designed by [phlowyd-farran-de-tao.md](../../artists/graphic/phlowyd-farran-de-tao.md "mention").
 
 _Click to view larger_
 
-<figure><img src="../../.gitbook/assets/Eschosphere - Omni Fluctuations - v6.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Sanial - Introspection album art.jpg" alt=""><figcaption></figcaption></figure>
