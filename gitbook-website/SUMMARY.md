@@ -104,6 +104,7 @@
   * [Antonia Tisserande](artists/graphic/antonia-tisserande.md)
   * [BubbleWrap (Daniel Joyce)](artists/graphic/bubblewrap-daniel-joyce.md)
   * [Darius Gilbey](artists/graphic/darius-gilbey.md)
+  * [Dave Clarke](artists/graphic/dave-clarke.md)
   * [Jay Goulding](artists/graphic/jay-goulding.md)
   * [Kat Day Starlight Soul](artists/graphic/kat-day-starlight-soul.md)
   * [Limerick Deslandes](artists/graphic/limerick-deslandes.md)
