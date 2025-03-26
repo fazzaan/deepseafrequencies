@@ -3,13 +3,13 @@ cover: ../../.gitbook/assets/Darklord Gob - Realm of Forms.jpg
 coverY: 0
 ---
 
-# Darklord Gob - Realm of Forms
+# Darklord Gob - Realm of Forms
 
 <table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/realm-of-forms">https://psychedelicjelly.bandcamp.com/album/realm-of-forms</a></td></tr><tr><td>SoundCloud</td><td><a href="https://soundcloud.com/dark-lord-gob/sets/realm-of-forms-e">https://soundcloud.com/dark-lord-gob/sets/realm-of-forms-e</a></td></tr><tr><td><em>More music by Darklord Gob</em></td><td><a href="../../artists/music/darklord-gob.md">darklord-gob.md</a></td></tr></tbody></table>
 
 Darklord Gob's first release with _Deep Sea Frequencies_ consists of two chilled treats for your auditory pleasure! Combining glitchy sound FX with deep sub-bass and haunting melodies, _Realm of Forms_ is just what the doctor ordered!
 
-<table data-header-hidden><thead><tr><th width="128" valign="top"></th><th></th></tr></thead><tbody><tr><td valign="top">Released</td><td>January 27, 2021</td></tr><tr><td valign="top">Mastering</td><td><p><em>Sanial McCormick —</em> <a href="https://soundcloud.com/sanial"><em>soundcloud.com/sanial</em></a> </p><p><a href="../../artists/mastering/sanial-mccormick.md"><em>DSF/Sanial McCormick</em></a> </p></td></tr><tr><td valign="top">Artwork</td><td>Artwork by Illuminaughty Visuals — <a href="https://www.facebook.com/illuminartyvisuals">www.facebook.com/illuminartyvisuals</a> </td></tr><tr><td valign="top">Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/realm-of-forms">psychedelicjelly.bandcamp.com/album/realm-of-forms</a> </td></tr><tr><td valign="top">SoundCloud</td><td><a href="https://soundcloud.com/dark-lord-gob/sets/realm-of-forms-e">soundcloud.com/dark-lord-gob/sets/realm-of-forms-e</a></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="128" valign="top"></th><th></th></tr></thead><tbody><tr><td valign="top">Released</td><td>January 27, 2021</td></tr><tr><td valign="top">Mastering</td><td><p><em>Sanial McCormick —</em> <a href="https://soundcloud.com/sanial"><em>soundcloud.com/sanial</em></a> </p><p><a href="../../artists/mastering/sanial-mccormick.md"><em>DSF/Sanial McCormick</em></a> </p></td></tr><tr><td valign="top">Artwork</td><td>Artwork by Illuminarty Visuals — <a href="https://www.facebook.com/illuminartyvisuals">www.facebook.com/illuminartyvisuals</a> </td></tr><tr><td valign="top">Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/realm-of-forms">psychedelicjelly.bandcamp.com/album/realm-of-forms</a> </td></tr><tr><td valign="top">SoundCloud</td><td><a href="https://soundcloud.com/dark-lord-gob/sets/realm-of-forms-e">soundcloud.com/dark-lord-gob/sets/realm-of-forms-e</a></td></tr></tbody></table>
 
 ## Buy to support
 
