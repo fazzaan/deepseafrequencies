@@ -47,3 +47,6 @@ _Click to view the artwork full-size:_
 
 Visit [Rowan's facebook page](https://www.facebook.com/Koshui-189067404460720/) or check out [his artist page on this website](../../artists/graphic/rowan-koshui.md).
 
+<table data-view="cards"><thead><tr><th></th><th data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Nomura Vol. I</td><td><a href="nomura-vol.-i.md">nomura-vol.-i.md</a></td><td><a href="../../.gitbook/assets/Nomura Vol. I - album art 05.png">Nomura Vol. I - album art 05.png</a></td></tr><tr><td>Nomura Vol. I</td><td><a href="nomura-vol.-ii.md">nomura-vol.-ii.md</a></td><td><a href="../../.gitbook/assets/Nomura Vol. II - cover 02 - colourised - Mary.png">Nomura Vol. II - cover 02 - colourised - Mary.png</a></td></tr></tbody></table>
+
+_← **return to**_ [.](./ "mention")&#x20;

@@ -71,6 +71,7 @@
 
 * [Music](artists/music/README.md)
   * [Auspice](artists/music/auspice.md)
+  * [Amritone](artists/music/amritone.md)
   * [Asabove](artists/music/asabove.md)
   * [Darklord Gob](artists/music/darklord-gob.md)
   * [Faelow](artists/music/faelow.md)

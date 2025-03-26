@@ -49,6 +49,12 @@ _Click to view larger_
 
 <figure><img src="../../.gitbook/assets/Nomura Vol. II - cover 02 - colourised - Mary.png" alt=""><figcaption></figcaption></figure>
 
+<table data-view="cards"><thead><tr><th></th><th data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Nomura Vol. I</td><td><a href="nomura-vol.-i.md">nomura-vol.-i.md</a></td><td><a href="../../.gitbook/assets/Nomura Vol. I - album art 05.png">Nomura Vol. I - album art 05.png</a></td></tr><tr><td>Nomura Vol. I</td><td><a href="nomura-vol.-ii.md">nomura-vol.-ii.md</a></td><td><a href="../../.gitbook/assets/Nomura Vol. II - cover 02 - colourised - Mary.png">Nomura Vol. II - cover 02 - colourised - Mary.png</a></td></tr></tbody></table>
+
+_← **return to**_ [.](./ "mention")&#x20;
+
+***
+
 Some more jelly prints from Mary T:
 
 {% embed url="https://www.instagram.com/p/ChzYErooytk/" %}
@@ -64,3 +70,5 @@ A different deep-sea beasty... The octopus 🐙💙
 And here is — I think! — the original print that she did for the artwork:
 
 {% embed url="https://www.instagram.com/p/CWaun-ZIZEM/" %}
+
+_← **return to**_ [.](./ "mention")&#x20;

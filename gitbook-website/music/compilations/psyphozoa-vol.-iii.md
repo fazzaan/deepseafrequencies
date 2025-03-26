@@ -54,3 +54,7 @@ Artwork by Tilly Monster&#x20;
 _Click to view larger_
 
 <figure><img src="../../.gitbook/assets/Psyphozoa Vol. III - v7.jpg" alt=""><figcaption></figcaption></figure>
+
+<table data-view="cards"><thead><tr><th data-card-target data-type="content-ref"></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><a href="psyphozoa-vol.-i.md">psyphozoa-vol.-i.md</a></td><td>March 26, 2020</td><td><a href="../../.gitbook/assets/Psyphozoa Vol. I - PsyJelly3 - Haagen.png">Psyphozoa Vol. I - PsyJelly3 - Haagen.png</a></td></tr><tr><td><a href="psyphozoa-vol.-ii.md">psyphozoa-vol.-ii.md</a></td><td>December 7, 2022</td><td><a href="../../.gitbook/assets/Psyphozoa Vol. II - cover art 04 - Antonia.jpg">Psyphozoa Vol. II - cover art 04 - Antonia.jpg</a></td></tr><tr><td><a href="psyphozoa-vol.-iii.md">psyphozoa-vol.-iii.md</a></td><td>August 31, 2024</td><td><a href="../../.gitbook/assets/Psyphozoa Vol. III - v7.jpg">Psyphozoa Vol. III - v7.jpg</a></td></tr></tbody></table>
+
+_← **return to**_ [.](./ "mention")&#x20;

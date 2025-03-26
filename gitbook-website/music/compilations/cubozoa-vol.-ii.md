@@ -46,3 +46,7 @@ Artwork created by Daniel Joyce (Bubblewrap) — IG [@bubblewraplighting](https:
 _Click to view larger_
 
 <figure><img src="../../.gitbook/assets/Cubozoa Vol. II with logo.jpg" alt=""><figcaption></figcaption></figure>
+
+<table data-view="cards"><thead><tr><th></th><th data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Cubozoa Vol. I</td><td><a href="cubozoa-vol.-i.md">cubozoa-vol.-i.md</a></td><td><a href="../../.gitbook/assets/Cubozoa Vol. I - jellly sketch fin12.jpg">Cubozoa Vol. I - jellly sketch fin12.jpg</a></td></tr><tr><td>Cubozoa Vol. II</td><td><a href="cubozoa-vol.-ii.md">cubozoa-vol.-ii.md</a></td><td><a href="../../.gitbook/assets/Cubozoa Vol. II with logo.jpg">Cubozoa Vol. II with logo.jpg</a></td></tr></tbody></table>
+
+_← **return to**_ [.](./ "mention")&#x20;

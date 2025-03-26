@@ -44,3 +44,7 @@ Beautiful photography of ink drops in motion through water by Limerick Deslandes
 _Click to view larger_
 
 <figure><img src="../../.gitbook/assets/Cyanea Vol. ii - Limerick.jpg" alt=""><figcaption></figcaption></figure>
+
+<table data-view="cards"><thead><tr><th data-card-target data-type="content-ref"></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><a href="cyanea-vol.-i.md">cyanea-vol.-i.md</a></td><td>December 20, 2018</td><td><a href="../../.gitbook/assets/Cyanea Vol. I.png">Cyanea Vol. I.png</a></td></tr><tr><td><a href="cyanea-vol.-ii.md">cyanea-vol.-ii.md</a></td><td>Cyanea Vol. II</td><td><a href="../../.gitbook/assets/Cyanea Vol. ii - Limerick.jpg">Cyanea Vol. ii - Limerick.jpg</a></td></tr></tbody></table>
+
+_← **return to**_ [.](./ "mention")&#x20;
