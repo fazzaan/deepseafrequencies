@@ -92,6 +92,7 @@
   * [Mettākin (𐌌𐌄𐌕𐌕𐌀𐌊𐌉𐌍)](artists/music/mettakin.md)
   * [Mouldy Soul](artists/music/mouldy-soul.md)
   * [Omnitone (ᴏᴍɴɪᴛᴏɴᴇ)](artists/music/omnitone.md)
+  * [Rhizomorphic](artists/music/rhizomorphic.md)
   * [Psybur](artists/music/psybur.md)
   * [Sanial](artists/music/sanial.md)
   * [sabrina's aura (sundaze)](artists/music/sabrinas-aura-sundaze.md)
