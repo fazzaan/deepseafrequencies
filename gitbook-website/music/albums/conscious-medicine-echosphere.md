@@ -13,7 +13,7 @@ _Deep Sea Frequencies_ is proud to present the second album from EchoSphere: Con
 
 ## Buy to support
 
-[Buy on Bandcamp to support the artists directly!](https://psychedelicjelly.bandcamp.com/album/floating-underground)&#x20;
+[Buy on Bandcamp to support the artists directly!](https://psychedelicjelly.bandcamp.com/album/conscious-medicine)&#x20;
 
 {% embed url="https://psychedelicjelly.bandcamp.com/album/conscious-medicine" %}
 

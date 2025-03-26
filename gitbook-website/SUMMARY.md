@@ -70,6 +70,7 @@
 
 * [Music](artists/music/README.md)
   * [Auspice](artists/music/auspice.md)
+  * [Asabove](artists/music/asabove.md)
   * [Darklord Gob](artists/music/darklord-gob.md)
   * [Faelow](artists/music/faelow.md)
   * [Geoglyph](artists/music/geoglyph.md)
