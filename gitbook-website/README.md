@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/Untitled (2).svg
+cover: .gitbook/assets/GitBook header image - full width.svg
 coverY: 0
 layout:
   cover:
@@ -19,7 +19,7 @@ layout:
 
 # Deep Sea Frequencies
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th></tr></thead><tbody><tr><td>Vist <strong>Bandcamp</strong> <em>to buy</em></td><td><a href="https://psychedelicjelly.bandcamp.com/">https://psychedelicjelly.bandcamp.com/</a></td></tr><tr><td>Visit <strong>SoundCloud</strong> <em>to listen</em></td><td><a href="https://soundcloud.com/psyjelly">https://soundcloud.com/psyjelly</a></td></tr><tr><td>Visit <strong>Instagram</strong> <em>to see</em></td><td><a href="https://www.instagram.com/psyjelly_deepseafrequencies/">https://www.instagram.com/psyjelly_deepseafrequencies/</a></td></tr><tr><td>Visit <strong>Facebook</strong> <em>to know</em></td><td><a href="https://www.facebook.com/DeepSeaFrequencies">https://www.facebook.com/DeepSeaFrequencies</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-hidden data-type="content-ref"></th></tr></thead><tbody><tr><td>Vist <strong>Bandcamp</strong> <em>to buy</em></td><td><a href="https://psychedelicjelly.bandcamp.com/">https://psychedelicjelly.bandcamp.com/</a></td></tr><tr><td>Visit <strong>SoundCloud</strong> <em>to listen</em></td><td><a href="https://soundcloud.com/psyjelly">https://soundcloud.com/psyjelly</a></td></tr><tr><td>Visit <strong>Instagram</strong> <em>to see</em></td><td><a href="https://www.instagram.com/psyjelly_deepseafrequencies/">https://www.instagram.com/psyjelly_deepseafrequencies/</a></td></tr><tr><td>Visit <strong>Facebook</strong> <em>to know</em></td><td><a href="https://www.facebook.com/DeepSeaFrequencies">https://www.facebook.com/DeepSeaFrequencies</a></td></tr></tbody></table>
 
 
 
