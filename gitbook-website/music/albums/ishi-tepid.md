@@ -5,7 +5,7 @@ coverY: 0
 
 # Ishi - Tepid
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/tepid">https://psychedelicjelly.bandcamp.com/album/tepid</a></td></tr><tr><td>YouTube</td><td><a href="https://www.youtube.com/watch?v=GOkFzJYMS8Q">https://www.youtube.com/watch?v=GOkFzJYMS8Q</a></td></tr><tr><td><em>More music by Ishi</em></td><td><a href="../../artists/music/ishi.md">ishi.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/tepid">https://psychedelicjelly.bandcamp.com/album/tepid</a></td></tr><tr><td>YouTube</td><td><a href="https://www.youtube.com/watch?v=GOkFzJYMS8Q">https://www.youtube.com/watch?v=GOkFzJYMS8Q</a></td></tr><tr><td><em>More music by Ishi</em></td><td><a href="../../artists/musicians/ishi.md">ishi.md</a></td></tr></tbody></table>
 
 <table data-header-hidden><thead><tr><th width="156" valign="top"></th><th></th></tr></thead><tbody><tr><td valign="top">Released</td><td><em>May 5, 2023</em></td></tr><tr><td valign="top">Mastering</td><td><em>Ovoid —</em> <a href="../../artists/mastering/ovoid.md"><em>DSF/Ovoid Mastering</em></a> </td></tr><tr><td valign="top">Artwork</td><td><p>Haleli Bleiweiss </p><p>(Maybe <a href="https://www.instagram.com/haleli_bleiweiss/">instagram.com/haleli_bleiweiss</a>) </p></td></tr><tr><td valign="top">Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/tepid">psychedelicjelly.bandcamp.com/album/tepid</a></td></tr><tr><td valign="top">YouTube</td><td><a href="https://www.youtube.com/watch?v=GOkFzJYMS8Q">youtube.com/watch?v=GOkFzJYMS8Q</a></td></tr></tbody></table>
 
@@ -29,7 +29,7 @@ _Unavailable at present._
 
 <table data-header-hidden><thead><tr><th width="40"></th><th width="127"></th><th width="76"></th></tr></thead><tbody><tr><td>1.</td><td><a href="https://psychedelicjelly.bandcamp.com/track/water-hoops">Water Hoops</a> </td><td>04:04</td></tr><tr><td>2.</td><td><a href="https://psychedelicjelly.bandcamp.com/track/husky-spirit">Husky Spirit</a> </td><td>03:33</td></tr></tbody></table>
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/tepid">https://psychedelicjelly.bandcamp.com/album/tepid</a></td></tr><tr><td>YouTube</td><td><a href="https://www.youtube.com/watch?v=GOkFzJYMS8Q">https://www.youtube.com/watch?v=GOkFzJYMS8Q</a></td></tr><tr><td><em>More music by Ishi</em></td><td><a href="../../artists/music/ishi.md">ishi.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/tepid">https://psychedelicjelly.bandcamp.com/album/tepid</a></td></tr><tr><td>YouTube</td><td><a href="https://www.youtube.com/watch?v=GOkFzJYMS8Q">https://www.youtube.com/watch?v=GOkFzJYMS8Q</a></td></tr><tr><td><em>More music by Ishi</em></td><td><a href="../../artists/musicians/ishi.md">ishi.md</a></td></tr></tbody></table>
 
 ## Artwork
 

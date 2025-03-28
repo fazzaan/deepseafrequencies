@@ -27,7 +27,7 @@ layout:
 
 ***
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>🎼 musicians</td><td><a href="artists/music/">music</a></td></tr><tr><td>🖼️ visual artists</td><td><a href="artists/graphic/">graphic</a></td></tr><tr><td>🎛️ audio masterers</td><td><a href="artists/mastering/">mastering</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>🎼 musicians</td><td><a href="artists/musicians/">musicians</a></td></tr><tr><td>🖼️ visual artists</td><td><a href="artists/graphic/">graphic</a></td></tr><tr><td>🎛️ audio masterers</td><td><a href="artists/mastering/">mastering</a></td></tr></tbody></table>
 
 ***
 

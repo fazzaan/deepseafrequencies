@@ -5,7 +5,7 @@ coverY: 0
 
 # Omnitone - Datum
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/datum">https://psychedelicjelly.bandcamp.com/album/datum</a></td></tr><tr><td>SoundCloud</td><td><a href="https://soundcloud.com/omnitonemusic/sets/datum-ep">https://soundcloud.com/omnitonemusic/sets/datum-ep</a></td></tr><tr><td><em>More music by Omnitone</em></td><td><a href="../../artists/music/omnitone.md">omnitone.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/datum">https://psychedelicjelly.bandcamp.com/album/datum</a></td></tr><tr><td>SoundCloud</td><td><a href="https://soundcloud.com/omnitonemusic/sets/datum-ep">https://soundcloud.com/omnitonemusic/sets/datum-ep</a></td></tr><tr><td><em>More music by Omnitone</em></td><td><a href="../../artists/musicians/omnitone.md">omnitone.md</a></td></tr></tbody></table>
 
 _Deep Sea Frequencies_ is proud to present the debut EP from Omnitone. Emotive melodies interwoven with punchy kicks and warm sub-bass invites you to follow us on this journey through glitchy soundscapes and broken beats, as Omnitone weaves hypnotic percussion delicately through each track. The beautiful sound design and intricate composition will leave you feeling uplifted and wanting to move your feet!
 
@@ -31,7 +31,7 @@ _Deep Sea Frequencies_ is proud to present the debut EP from Omnitone. Emotive m
 
 <table data-header-hidden><thead><tr><th width="40"></th><th width="94"></th><th width="80"></th></tr></thead><tbody><tr><td>1.</td><td><a href="https://psychedelicjelly.bandcamp.com/track/insitu">Insitu</a> </td><td>03:15</td></tr><tr><td>2.</td><td><a href="https://psychedelicjelly.bandcamp.com/track/u-and-i">U and I</a> </td><td>04:27</td></tr><tr><td>3.</td><td><a href="https://psychedelicjelly.bandcamp.com/track/datum">Datum</a> </td><td>04:35</td></tr><tr><td>4.</td><td><a href="https://psychedelicjelly.bandcamp.com/track/passage">Passage</a> </td><td>04:16</td></tr></tbody></table>
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/datum">https://psychedelicjelly.bandcamp.com/album/datum</a></td></tr><tr><td>SoundCloud</td><td><a href="https://soundcloud.com/omnitonemusic/sets/datum-ep">https://soundcloud.com/omnitonemusic/sets/datum-ep</a></td></tr><tr><td><em>More music by Omnitone</em></td><td><a href="../../artists/music/omnitone.md">omnitone.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/datum">https://psychedelicjelly.bandcamp.com/album/datum</a></td></tr><tr><td>SoundCloud</td><td><a href="https://soundcloud.com/omnitonemusic/sets/datum-ep">https://soundcloud.com/omnitonemusic/sets/datum-ep</a></td></tr><tr><td><em>More music by Omnitone</em></td><td><a href="../../artists/musicians/omnitone.md">omnitone.md</a></td></tr></tbody></table>
 
 ## Artwork
 

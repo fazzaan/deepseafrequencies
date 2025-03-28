@@ -5,7 +5,7 @@ coverY: 0
 
 # Illusive Tuna - Zawn
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/zawn">https://psychedelicjelly.bandcamp.com/album/zawn</a></td></tr><tr><td>SoundCloud</td><td><a href="https://soundcloud.com/illusivetuna/sets/zawn">https://soundcloud.com/illusivetuna/sets/zawn</a></td></tr><tr><td><em>More music by Illusive Tuna</em></td><td><a href="../../artists/music/illusive-tuna.md">illusive-tuna.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/zawn">https://psychedelicjelly.bandcamp.com/album/zawn</a></td></tr><tr><td>SoundCloud</td><td><a href="https://soundcloud.com/illusivetuna/sets/zawn">https://soundcloud.com/illusivetuna/sets/zawn</a></td></tr><tr><td><em>More music by Illusive Tuna</em></td><td><a href="../../artists/musicians/illusive-tuna.md">illusive-tuna.md</a></td></tr></tbody></table>
 
 Bristol based duo Illusive Tuna return for their second appearance in _Deep Sea Frequencies_'s lineup. After their debut EP on _Triple Drop Records_ they were voted second in the best new artist category in the [Psybient.org](http://psybient.org/) annual awards.&#x20;
 

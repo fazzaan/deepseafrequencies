@@ -3,9 +3,9 @@ cover: ../../.gitbook/assets/Fractal Forest - Solistic - Essence Project.png
 coverY: 0
 ---
 
-# Fractal Forest - Solistic remix (Essence Project)
+# Fractal Forest - Solistic remix (Essence Project)
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/space-time">https://psychedelicjelly.bandcamp.com/album/space-time</a></td></tr><tr><td>SoundCloud</td><td><a href="https://soundcloud.com/forest-biscoe/solistic-fractal-forest-remix">https://soundcloud.com/forest-biscoe/solistic-fractal-forest-remix</a></td></tr><tr><td><em>More music by Fractal Forest</em></td><td><a href="../../artists/music/fractal-forest.md">fractal-forest.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/space-time">https://psychedelicjelly.bandcamp.com/album/space-time</a></td></tr><tr><td>SoundCloud</td><td><a href="https://soundcloud.com/forest-biscoe/solistic-fractal-forest-remix">https://soundcloud.com/forest-biscoe/solistic-fractal-forest-remix</a></td></tr><tr><td><em>More music by Fractal Forest</em></td><td><a href="../../artists/musicians/fractal-forest.md">fractal-forest.md</a></td></tr></tbody></table>
 
 To celebrate 1K followers, Fractal Forest is giving away this remix via _Deep Sea Frequencies_!
 
@@ -29,7 +29,7 @@ To celebrate 1K followers, Fractal Forest is giving away this remix via _Deep Se
 
 ***
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/space-time">https://psychedelicjelly.bandcamp.com/album/space-time</a></td></tr><tr><td>SoundCloud</td><td><a href="https://soundcloud.com/forest-biscoe/solistic-fractal-forest-remix">https://soundcloud.com/forest-biscoe/solistic-fractal-forest-remix</a></td></tr><tr><td><em>More music by The MoonRakers</em></td><td><a href="../../artists/music/the-moonrakers.md">the-moonrakers.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/space-time">https://psychedelicjelly.bandcamp.com/album/space-time</a></td></tr><tr><td>SoundCloud</td><td><a href="https://soundcloud.com/forest-biscoe/solistic-fractal-forest-remix">https://soundcloud.com/forest-biscoe/solistic-fractal-forest-remix</a></td></tr><tr><td><em>More music by The MoonRakers</em></td><td><a href="../../artists/musicians/the-moonrakers.md">the-moonrakers.md</a></td></tr></tbody></table>
 
 ## Artwork
 

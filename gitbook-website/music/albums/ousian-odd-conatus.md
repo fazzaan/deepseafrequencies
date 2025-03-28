@@ -5,7 +5,7 @@ coverY: 0
 
 # Ousian Odd - Conatus
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/conatus">https://psychedelicjelly.bandcamp.com/album/conatus</a></td></tr><tr><td>SoundCloud</td><td><a href="https://soundcloud.com/ousianodd/sets/conatus-remastered">https://soundcloud.com/ousianodd/sets/conatus-remastered</a></td></tr><tr><td><em>More music by Ousian Odd</em></td><td><a href="../../artists/music/ousian-odd.md">ousian-odd.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/conatus">https://psychedelicjelly.bandcamp.com/album/conatus</a></td></tr><tr><td>SoundCloud</td><td><a href="https://soundcloud.com/ousianodd/sets/conatus-remastered">https://soundcloud.com/ousianodd/sets/conatus-remastered</a></td></tr><tr><td><em>More music by Ousian Odd</em></td><td><a href="../../artists/musicians/ousian-odd.md">ousian-odd.md</a></td></tr></tbody></table>
 
 _All profits will go to help the refugees and situation in Ukraine._
 
@@ -33,7 +33,7 @@ Ousian Odd is a combined identity from Yalın ([@Musichyle](https://soundcloud.c
 
 <table data-header-hidden><thead><tr><th width="40"></th><th width="88"></th><th width="75"></th></tr></thead><tbody><tr><td>1.</td><td><a href="https://psychedelicjelly.bandcamp.com/track/conatus">Conatus</a> </td><td>05:17</td></tr><tr><td>2.</td><td><a href="https://psychedelicjelly.bandcamp.com/track/alethia">Alethia</a> </td><td>05:01</td></tr><tr><td>3.</td><td><a href="https://psychedelicjelly.bandcamp.com/track/lethe">Lethe</a> </td><td>05:01</td></tr></tbody></table>
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/conatus">https://psychedelicjelly.bandcamp.com/album/conatus</a></td></tr><tr><td>SoundCloud</td><td><a href="https://soundcloud.com/ousianodd/sets/conatus-remastered">https://soundcloud.com/ousianodd/sets/conatus-remastered</a></td></tr><tr><td><em>More music by Ousian Odd</em></td><td><a href="../../artists/music/ousian-odd.md">ousian-odd.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/conatus">https://psychedelicjelly.bandcamp.com/album/conatus</a></td></tr><tr><td>SoundCloud</td><td><a href="https://soundcloud.com/ousianodd/sets/conatus-remastered">https://soundcloud.com/ousianodd/sets/conatus-remastered</a></td></tr><tr><td><em>More music by Ousian Odd</em></td><td><a href="../../artists/musicians/ousian-odd.md">ousian-odd.md</a></td></tr></tbody></table>
 
 ## Artwork
 

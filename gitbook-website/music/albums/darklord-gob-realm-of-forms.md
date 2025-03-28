@@ -5,7 +5,7 @@ coverY: 0
 
 # Darklord Gob - Realm of Forms
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/realm-of-forms">https://psychedelicjelly.bandcamp.com/album/realm-of-forms</a></td></tr><tr><td>SoundCloud</td><td><a href="https://soundcloud.com/dark-lord-gob/sets/realm-of-forms-e">https://soundcloud.com/dark-lord-gob/sets/realm-of-forms-e</a></td></tr><tr><td><em>More music by Darklord Gob</em></td><td><a href="../../artists/music/darklord-gob.md">darklord-gob.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/realm-of-forms">https://psychedelicjelly.bandcamp.com/album/realm-of-forms</a></td></tr><tr><td>SoundCloud</td><td><a href="https://soundcloud.com/dark-lord-gob/sets/realm-of-forms-e">https://soundcloud.com/dark-lord-gob/sets/realm-of-forms-e</a></td></tr><tr><td><em>More music by Darklord Gob</em></td><td><a href="../../artists/musicians/darklord-gob.md">darklord-gob.md</a></td></tr></tbody></table>
 
 Darklord Gob's first release with _Deep Sea Frequencies_ consists of two chilled treats for your auditory pleasure! Combining glitchy sound FX with deep sub-bass and haunting melodies, _Realm of Forms_ is just what the doctor ordered!
 
@@ -31,7 +31,7 @@ Darklord Gob's first release with _Deep Sea Frequencies_ consists of two chilled
 
 <table data-header-hidden><thead><tr><th width="40"></th><th width="145"></th><th width="72"></th></tr></thead><tbody><tr><td>1.</td><td><a href="https://psychedelicjelly.bandcamp.com/track/realm-of-forms">Realm of Forms</a> </td><td>04:48</td></tr><tr><td>2.</td><td><a href="https://psychedelicjelly.bandcamp.com/track/red-scale">Red Scale</a> </td><td>04:03</td></tr></tbody></table>
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/realm-of-forms">https://psychedelicjelly.bandcamp.com/album/realm-of-forms</a></td></tr><tr><td>SoundCloud</td><td><a href="https://soundcloud.com/dark-lord-gob/sets/realm-of-forms-e">https://soundcloud.com/dark-lord-gob/sets/realm-of-forms-e</a></td></tr><tr><td><em>More music by Darklord Gob</em></td><td><a href="../../artists/music/darklord-gob.md">darklord-gob.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/realm-of-forms">https://psychedelicjelly.bandcamp.com/album/realm-of-forms</a></td></tr><tr><td>SoundCloud</td><td><a href="https://soundcloud.com/dark-lord-gob/sets/realm-of-forms-e">https://soundcloud.com/dark-lord-gob/sets/realm-of-forms-e</a></td></tr><tr><td><em>More music by Darklord Gob</em></td><td><a href="../../artists/musicians/darklord-gob.md">darklord-gob.md</a></td></tr></tbody></table>
 
 ## Artwork
 

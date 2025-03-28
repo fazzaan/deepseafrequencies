@@ -5,7 +5,7 @@ coverY: 0
 
 # Faelow - Floating Underground
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/floating-underground">https://psychedelicjelly.bandcamp.com/album/floating-underground</a></td></tr><tr><td>SoundCloud</td><td><a href="https://soundcloud.com/psyjelly/sets/faelow-floating-underground">https://soundcloud.com/psyjelly/sets/faelow-floating-underground</a></td></tr><tr><td><em>More music by Faelow</em></td><td><a href="../../artists/music/faelow.md">faelow.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/floating-underground">https://psychedelicjelly.bandcamp.com/album/floating-underground</a></td></tr><tr><td>SoundCloud</td><td><a href="https://soundcloud.com/psyjelly/sets/faelow-floating-underground">https://soundcloud.com/psyjelly/sets/faelow-floating-underground</a></td></tr><tr><td><em>More music by Faelow</em></td><td><a href="../../artists/musicians/faelow.md">faelow.md</a></td></tr></tbody></table>
 
 Floating Underground captures the strangeness and beauty of underwater life, with a focus on movement and textures in aquatic space. _Deep Sea Frequencies_ is proud to release this debut EP of Boston (MA) downtempo producer Faelow.
 
@@ -31,7 +31,7 @@ Floating Underground captures the strangeness and beauty of underwater life, wit
 
 <table data-header-hidden><thead><tr><th width="40"></th><th width="192"></th><th width="80"></th></tr></thead><tbody><tr><td>1.</td><td><a href="https://psychedelicjelly.bandcamp.com/track/spelunk">Spelunk</a> </td><td>05:00</td></tr><tr><td>2.</td><td><a href="https://psychedelicjelly.bandcamp.com/track/cave-pool">Cave Pool</a> </td><td>03:17</td></tr><tr><td>3.</td><td><a href="https://psychedelicjelly.bandcamp.com/track/cascade">Cascade</a> </td><td>03:03</td></tr><tr><td>4.</td><td><a href="https://psychedelicjelly.bandcamp.com/track/floating-underground">Floating Underground</a> </td><td>04:18</td></tr></tbody></table>
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/floating-underground">https://psychedelicjelly.bandcamp.com/album/floating-underground</a></td></tr><tr><td>SoundCloud</td><td><a href="https://soundcloud.com/psyjelly/sets/faelow-floating-underground">https://soundcloud.com/psyjelly/sets/faelow-floating-underground</a></td></tr><tr><td><em>More music by Faelow</em></td><td><a href="../../artists/music/faelow.md">faelow.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/floating-underground">https://psychedelicjelly.bandcamp.com/album/floating-underground</a></td></tr><tr><td>SoundCloud</td><td><a href="https://soundcloud.com/psyjelly/sets/faelow-floating-underground">https://soundcloud.com/psyjelly/sets/faelow-floating-underground</a></td></tr><tr><td><em>More music by Faelow</em></td><td><a href="../../artists/musicians/faelow.md">faelow.md</a></td></tr></tbody></table>
 
 ## Artwork
 

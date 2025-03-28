@@ -5,7 +5,7 @@ coverY: 0
 
 # Sanial - From The Depth
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/from-the-depth">https://psychedelicjelly.bandcamp.com/album/from-the-depth</a></td></tr><tr><td>SoundCloud</td><td><a href="https://soundcloud.com/psyjelly/sets/from-the-depth-1">https://soundcloud.com/psyjelly/sets/from-the-depth-1</a></td></tr><tr><td><em>More music by Sanial</em></td><td><a href="../../artists/music/sanial.md">sanial.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/from-the-depth">https://psychedelicjelly.bandcamp.com/album/from-the-depth</a></td></tr><tr><td>SoundCloud</td><td><a href="https://soundcloud.com/psyjelly/sets/from-the-depth-1">https://soundcloud.com/psyjelly/sets/from-the-depth-1</a></td></tr><tr><td><em>More music by Sanial</em></td><td><a href="../../artists/musicians/sanial.md">sanial.md</a></td></tr></tbody></table>
 
 Following on from [Sanial’s “Introspection” release](sanial-introspection.md), we find ourselves immersed in a sea of mid-tempo psybass. A harder, faster expression of forward motion sounds, Sanial has plumbed the depths of his psyche, and what has been brought up From The Depth is dark, ethereal and trippy as fuqk.
 
@@ -35,7 +35,7 @@ _Description by Dylan Moss Writing_
 
 <table data-header-hidden><thead><tr><th width="40"></th><th width="196"></th><th width="80"></th></tr></thead><tbody><tr><td>1.</td><td><a href="https://psychedelicjelly.bandcamp.com/track/from-the-depth">From The Depth</a> 06:03</td><td></td></tr><tr><td>2.</td><td><a href="https://psychedelicjelly.bandcamp.com/track/colossal">Colossal</a> 04:31</td><td></td></tr></tbody></table>
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/from-the-depth">https://psychedelicjelly.bandcamp.com/album/from-the-depth</a></td></tr><tr><td>SoundCloud</td><td><a href="https://soundcloud.com/psyjelly/sets/from-the-depth-1">https://soundcloud.com/psyjelly/sets/from-the-depth-1</a></td></tr><tr><td><em>More music by Sanial</em></td><td><a href="../../artists/music/sanial.md">sanial.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/from-the-depth">https://psychedelicjelly.bandcamp.com/album/from-the-depth</a></td></tr><tr><td>SoundCloud</td><td><a href="https://soundcloud.com/psyjelly/sets/from-the-depth-1">https://soundcloud.com/psyjelly/sets/from-the-depth-1</a></td></tr><tr><td><em>More music by Sanial</em></td><td><a href="../../artists/musicians/sanial.md">sanial.md</a></td></tr></tbody></table>
 
 ## Artwork
 

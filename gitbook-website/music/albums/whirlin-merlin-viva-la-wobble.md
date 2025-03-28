@@ -3,9 +3,9 @@ cover: ../../.gitbook/assets/Whirlin Merlin - viva la wobble 5-3000.jpg
 coverY: 0
 ---
 
-# Whirlin' Merlin - Viva La Wobble
+# Whirlin' Merlin - Viva La Wobble
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/viva-la-wobble">https://psychedelicjelly.bandcamp.com/album/viva-la-wobble</a></td></tr><tr><td>SoundCloud</td><td><a href="https://soundcloud.com/psyjelly/sets/whirlin-merlin-viva-la-wobble">https://soundcloud.com/psyjelly/sets/whirlin-merlin-viva-la-wobble</a></td></tr><tr><td><em>More music by Whirlin' Merlin</em></td><td><a href="../../artists/music/whirlin-merlin.md">whirlin-merlin.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/viva-la-wobble">https://psychedelicjelly.bandcamp.com/album/viva-la-wobble</a></td></tr><tr><td>SoundCloud</td><td><a href="https://soundcloud.com/psyjelly/sets/whirlin-merlin-viva-la-wobble">https://soundcloud.com/psyjelly/sets/whirlin-merlin-viva-la-wobble</a></td></tr><tr><td><em>More music by Whirlin' Merlin</em></td><td><a href="../../artists/musicians/whirlin-merlin.md">whirlin-merlin.md</a></td></tr></tbody></table>
 
 Whirlin’ Merlin has been locked in his cave mixing gizmos and potions in the search for the perfect squelch. On his multidisciplinary sonic adventure he stumbled upon the sound, not heard since the days of the primordial soup, which first ignited the spark of love on Planet Earth. If you're good he has agreed to let you have a listen.
 
@@ -33,7 +33,7 @@ As a sonic sorcerer and long time student of dub he has combined dub techniques 
 
 <table data-header-hidden><thead><tr><th width="40"></th><th width="331"></th><th width="69"></th><th></th></tr></thead><tbody><tr><td>1.</td><td><a href="https://psychedelicjelly.bandcamp.com/track/dont-waste-a-wobble-wobble-your-waist">Don't Waste a Wobble, Wobble Your Waist</a> </td><td>03:45</td><td>Clarinet and harmonica by Emma Robson</td></tr><tr><td>2.</td><td><a href="https://psychedelicjelly.bandcamp.com/track/flame-feat-arun-dita">Flame (feat. Arun Dita)</a> </td><td>05:19</td><td>Vocals by Arun Dita</td></tr><tr><td>3.</td><td><a href="https://psychedelicjelly.bandcamp.com/track/zorbing-the-triangulum">Zorbing The Triangulum</a> </td><td>04:58</td><td><p>Guitar by Rupak George</p><p>Trombone by Eriko Murakami </p></td></tr></tbody></table>
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/viva-la-wobble">https://psychedelicjelly.bandcamp.com/album/viva-la-wobble</a></td></tr><tr><td>SoundCloud</td><td><a href="https://soundcloud.com/psyjelly/sets/whirlin-merlin-viva-la-wobble">https://soundcloud.com/psyjelly/sets/whirlin-merlin-viva-la-wobble</a></td></tr><tr><td><em>More music by Whirlin' Merlin</em></td><td><a href="../../artists/music/whirlin-merlin.md">whirlin-merlin.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/viva-la-wobble">https://psychedelicjelly.bandcamp.com/album/viva-la-wobble</a></td></tr><tr><td>SoundCloud</td><td><a href="https://soundcloud.com/psyjelly/sets/whirlin-merlin-viva-la-wobble">https://soundcloud.com/psyjelly/sets/whirlin-merlin-viva-la-wobble</a></td></tr><tr><td><em>More music by Whirlin' Merlin</em></td><td><a href="../../artists/musicians/whirlin-merlin.md">whirlin-merlin.md</a></td></tr></tbody></table>
 
 ## Artwork
 

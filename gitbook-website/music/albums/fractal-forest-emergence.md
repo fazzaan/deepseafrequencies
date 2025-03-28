@@ -5,7 +5,7 @@ coverY: 0
 
 # Fractal Forest - Emergence
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/emergence">https://psychedelicjelly.bandcamp.com/album/emergence</a></td></tr><tr><td>SoundCloud</td><td><a href="https://soundcloud.com/forest-biscoe/sets/emergence-1">https://soundcloud.com/forest-biscoe/sets/emergence-1</a></td></tr><tr><td><em>More music by Fractal Forest</em></td><td><a href="../../artists/music/fractal-forest.md">fractal-forest.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/emergence">https://psychedelicjelly.bandcamp.com/album/emergence</a></td></tr><tr><td>SoundCloud</td><td><a href="https://soundcloud.com/forest-biscoe/sets/emergence-1">https://soundcloud.com/forest-biscoe/sets/emergence-1</a></td></tr><tr><td><em>More music by Fractal Forest</em></td><td><a href="../../artists/musicians/fractal-forest.md">fractal-forest.md</a></td></tr></tbody></table>
 
 _Deep Sea Frequencies_ is proud to announce the debut EP from DSF-label founder Fractal Forest with 4 tracks, each one a taking on a different style of psychedelic bass music. Everything from psybass to halftime, to breaks and DnB! Funky melodies are interwoven with crunchy bass and squelchy sounds!
 
@@ -31,7 +31,7 @@ _Deep Sea Frequencies_ is proud to announce the debut EP from DSF-label founder 
 
 <table data-header-hidden><thead><tr><th width="43"></th><th width="491"></th><th width="74"></th></tr></thead><tbody><tr><td>1.</td><td><a href="https://psychedelicjelly.bandcamp.com/track/curbside-downtempo-mix">Fractal Forest &#x26; The MoonRakers - Curbside (Downtempo Mix)</a> </td><td>05:19</td></tr><tr><td>2.</td><td><a href="https://psychedelicjelly.bandcamp.com/track/im-not-usually-like-this">I'm Not Usually Like This</a> </td><td>03:56</td></tr><tr><td>3.</td><td><a href="https://psychedelicjelly.bandcamp.com/track/cogs-in-the-machine">Cogs In The Machine</a> </td><td>04:56</td></tr><tr><td>4.</td><td><a href="https://psychedelicjelly.bandcamp.com/track/feelings">Feelings</a> </td><td>04:00</td></tr></tbody></table>
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/emergence">https://psychedelicjelly.bandcamp.com/album/emergence</a></td></tr><tr><td>SoundCloud</td><td><a href="https://soundcloud.com/forest-biscoe/sets/emergence-1">https://soundcloud.com/forest-biscoe/sets/emergence-1</a></td></tr><tr><td><em>More music by Fractal Forest</em></td><td><a href="../../artists/music/fractal-forest.md">fractal-forest.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/emergence">https://psychedelicjelly.bandcamp.com/album/emergence</a></td></tr><tr><td>SoundCloud</td><td><a href="https://soundcloud.com/forest-biscoe/sets/emergence-1">https://soundcloud.com/forest-biscoe/sets/emergence-1</a></td></tr><tr><td><em>More music by Fractal Forest</em></td><td><a href="../../artists/musicians/fractal-forest.md">fractal-forest.md</a></td></tr></tbody></table>
 
 ## Artwork
 

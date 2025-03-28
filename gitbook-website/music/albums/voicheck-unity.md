@@ -5,7 +5,7 @@ coverY: 0
 
 # Voicheck - Unity
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/unity">https://psychedelicjelly.bandcamp.com/album/unity</a></td></tr><tr><td>SoundCloud</td><td><a href="https://soundcloud.com/psyjelly/sets/voicheck-unity">https://soundcloud.com/psyjelly/sets/voicheck-unity</a></td></tr><tr><td><em>More music by Voicheck</em></td><td><a href="../../artists/music/voicheck.md">voicheck.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/unity">https://psychedelicjelly.bandcamp.com/album/unity</a></td></tr><tr><td>SoundCloud</td><td><a href="https://soundcloud.com/psyjelly/sets/voicheck-unity">https://soundcloud.com/psyjelly/sets/voicheck-unity</a></td></tr><tr><td><em>More music by Voicheck</em></td><td><a href="../../artists/musicians/voicheck.md">voicheck.md</a></td></tr></tbody></table>
 
 _Deep Sea Frequencies_ is proud to present this deep and dark EP by Voicheck. Taking on influence from dubstep and tribal bass, the Swiss producer will take you on a journey through the darker side of psychedelic bass music. Chunky bass sounds are complimented by intricate rhythms and etheral atmospheres!
 
@@ -31,7 +31,7 @@ _Deep Sea Frequencies_ is proud to present this deep and dark EP by Voicheck. Ta
 
 <table data-header-hidden><thead><tr><th width="40"></th><th width="195"></th><th width="72"></th><th></th></tr></thead><tbody><tr><td>1.</td><td><a href="https://psychedelicjelly.bandcamp.com/track/goji">Voicheck &#x26; Yotah - Goji</a> </td><td>03:26</td><td></td></tr><tr><td>2.</td><td><a href="https://psychedelicjelly.bandcamp.com/track/morph">Morph</a> </td><td>04:50</td><td></td></tr><tr><td>3.</td><td><a href="https://psychedelicjelly.bandcamp.com/track/unity">Unity</a> </td><td>07:00</td><td>Vocals from Man Free | Jamaican Life Documentary:<br><a href="https://www.youtube.com/watch?v=xY0BU7MSEyo">www.youtube.com/watch?v=xY0BU7MSEyo</a> </td></tr><tr><td>4.</td><td><a href="https://psychedelicjelly.bandcamp.com/track/ishango">Ishango</a> </td><td>05:27</td><td></td></tr></tbody></table>
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/unity">https://psychedelicjelly.bandcamp.com/album/unity</a></td></tr><tr><td>SoundCloud</td><td><a href="https://soundcloud.com/psyjelly/sets/voicheck-unity">https://soundcloud.com/psyjelly/sets/voicheck-unity</a></td></tr><tr><td><em>More music by Voicheck</em></td><td><a href="../../artists/music/voicheck.md">voicheck.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/unity">https://psychedelicjelly.bandcamp.com/album/unity</a></td></tr><tr><td>SoundCloud</td><td><a href="https://soundcloud.com/psyjelly/sets/voicheck-unity">https://soundcloud.com/psyjelly/sets/voicheck-unity</a></td></tr><tr><td><em>More music by Voicheck</em></td><td><a href="../../artists/musicians/voicheck.md">voicheck.md</a></td></tr></tbody></table>
 
 ## Artwork
 
