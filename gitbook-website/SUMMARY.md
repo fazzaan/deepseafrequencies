@@ -70,8 +70,8 @@
 ## Artists
 
 * [Musicians](artists/musicians/README.md)
-  * [Model artist page](artists/musicians/advanced-suite.md)
-  * [Advanced Suite](artists/musicians/advanced-suite-1.md)
+  * [Model artist page](artists/musicians/model-artist-page.md)
+  * [Advanced Suite](artists/musicians/advanced-suite.md)
   * [Alterra Project](artists/musicians/alterra-project.md)
   * [Amritone](artists/musicians/amritone.md)
   * [Animus](artists/musicians/animus.md)

@@ -1,5 +1,12 @@
-# Advanced Suite
+---
+hidden: true
+---
 
+# Model artist page
+
+
+
+* _albums they appear on_
 * _intro info about the musician and photo or logo_
 * _web link buttons (maybe select max. 6; put the rest in the table)_
 * _table of info (location, style, years producing)_

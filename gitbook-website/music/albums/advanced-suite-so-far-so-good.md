@@ -5,7 +5,7 @@ coverY: 0
 
 # Advanced Suite - So Far So Good
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/so-far-so-good">https://psychedelicjelly.bandcamp.com/album/so-far-so-good</a></td></tr><tr><td>YouTube</td><td><a href="https://www.youtube.com/watch?v=0KaG_V5jqC4">https://www.youtube.com/watch?v=0KaG_V5jqC4</a></td></tr><tr><td><em>More music by Advanced Suite</em></td><td><a href="../../artists/musicians/advanced-suite-1.md">advanced-suite-1.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/so-far-so-good">https://psychedelicjelly.bandcamp.com/album/so-far-so-good</a></td></tr><tr><td>YouTube</td><td><a href="https://www.youtube.com/watch?v=0KaG_V5jqC4">https://www.youtube.com/watch?v=0KaG_V5jqC4</a></td></tr><tr><td><em>More music by Advanced Suite</em></td><td><a href="../../artists/musicians/advanced-suite.md">advanced-suite.md</a></td></tr></tbody></table>
 
 _Deep Sea Frequencies_ is proud to welcome back Advanced Suite for the second time! Feast your ears on these funky-wunky dubby tracks while you explore the tasty treats found within "So Far So Good".
 
@@ -31,7 +31,7 @@ Doesn't seem to be on SoundCloud...?!
 
 <table data-header-hidden><thead><tr><th width="40"></th><th width="213"></th><th width="73"></th></tr></thead><tbody><tr><td>1.</td><td><a href="https://psychedelicjelly.bandcamp.com/track/tell-me-what-you-want">Tell Me What You Want</a> </td><td>05:53</td></tr><tr><td>2.</td><td><a href="https://psychedelicjelly.bandcamp.com/track/when-in-doubt">When In Doubt</a> </td><td>05:26</td></tr><tr><td>3.</td><td><a href="https://psychedelicjelly.bandcamp.com/track/mellow-system">Mellow System</a> </td><td>05:49</td></tr><tr><td>4.</td><td><a href="https://psychedelicjelly.bandcamp.com/track/i-can-give-you-everything">I Can Give You Everything</a> </td><td>08:05</td></tr></tbody></table>
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/so-far-so-good">https://psychedelicjelly.bandcamp.com/album/so-far-so-good</a></td></tr><tr><td>YouTube</td><td><a href="https://www.youtube.com/watch?v=0KaG_V5jqC4">https://www.youtube.com/watch?v=0KaG_V5jqC4</a></td></tr><tr><td><em>More music by Advanced Suite</em></td><td><a href="../../artists/musicians/advanced-suite-1.md">advanced-suite-1.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Bandcamp</td><td><a href="https://psychedelicjelly.bandcamp.com/album/so-far-so-good">https://psychedelicjelly.bandcamp.com/album/so-far-so-good</a></td></tr><tr><td>YouTube</td><td><a href="https://www.youtube.com/watch?v=0KaG_V5jqC4">https://www.youtube.com/watch?v=0KaG_V5jqC4</a></td></tr><tr><td><em>More music by Advanced Suite</em></td><td><a href="../../artists/musicians/advanced-suite.md">advanced-suite.md</a></td></tr></tbody></table>
 
 ## Artwork
 
