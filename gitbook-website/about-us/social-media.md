@@ -1,10 +1,11 @@
-# Music outlets
+# Social media
 
-## Music channels
+## News channels
 
-|                            |   |   |
-| -------------------------- | - | - |
-| Bandcamp store & streaming |   |   |
-| SoundCloud streaming       |   |   |
-| MixCloud event sets        |   |   |
+|                          |   |   |
+| ------------------------ | - | - |
+| Facebook page            |   |   |
+| Facebook group (private) |   |   |
+| Instagram page           |   |   |
+|                          |   |   |
 
