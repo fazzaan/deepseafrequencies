@@ -109,7 +109,7 @@
   * [Advanced Suite](artists/musicians/advanced-suite.md)
   * [Alterra Project](artists/musicians/alterra-project.md)
   * [Amritone](artists/musicians/amritone.md)
-  * [Animus](artists/musicians/animus.md)
+  * [Animus (A•Dot)](artists/musicians/animus-a-dot.md)
   * [Antandra](artists/musicians/antandra.md)
   * [Ape Suit](artists/musicians/ape-suit.md)
   * [Åpìs](artists/musicians/apis.md)
