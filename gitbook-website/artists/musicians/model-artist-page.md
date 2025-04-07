@@ -7,13 +7,13 @@ noIndex: true
 
 ### music
 
-<table data-view="cards"><thead><tr><th data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><a href="../../music/albums/advanced-suite-shapes-of-nothing.md">advanced-suite-shapes-of-nothing.md</a></td><td><a href="../../.gitbook/assets/Advanced Suite - Shapes of Nothing logo 2000x.png">Advanced Suite - Shapes of Nothing logo 2000x.png</a></td></tr><tr><td><a href="../../music/compilations/nomura-vol.-ii.md">nomura-vol.-ii.md</a></td><td><a href="../../.gitbook/assets/Nomura Vol. II - cover 02 - colourised - Mary.png">Nomura Vol. II - cover 02 - colourised - Mary.png</a></td></tr><tr><td><a href="../../music/albums/advanced-suite-so-far-so-good.md">advanced-suite-so-far-so-good.md</a></td><td><a href="../../.gitbook/assets/Advanced Suite - So Far So Good.jpg">Advanced Suite - So Far So Good.jpg</a></td></tr><tr><td><a href="../../music/compilations/psyphozoa-vol.-ii.md">psyphozoa-vol.-ii.md</a></td><td><a href="../../.gitbook/assets/Psyphozoa Vol. II - cover art 04 - Antonia.jpg">Psyphozoa Vol. II - cover art 04 - Antonia.jpg</a></td></tr><tr><td><a href="../../music/compilations/psyphozoa-vol.-iii.md">psyphozoa-vol.-iii.md</a></td><td><a href="../../.gitbook/assets/Psyphozoa Vol. III - v7.jpg">Psyphozoa Vol. III - v7.jpg</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><a href="../../music/compilations/psyphozoa-vol.-iii.md">psyphozoa-vol.-iii.md</a></td><td><a href="../../.gitbook/assets/Psyphozoa Vol. III - v7.jpg">Psyphozoa Vol. III - v7.jpg</a></td></tr></tbody></table>
 
 ### about
 
 Advanced Suite is Patrick Palone of [Denver, USA](#user-content-fn-1)[^1]. _"A make it up take on down to mid-tempo tripped out jilted techno"_, and that's all he has to say for himself! Advanced Suite channels music that is always a pleasure to enjoy, through a range of genrerific explorations. Some of it provides an ideal backdrop, the kind of music you can put on and get lost in whatever you're doing, and some of it is the kind that takes you on an unexpected journey through the realms of the psychic and funkadelic.
 
-<table data-header-hidden><thead><tr><th width="171"></th><th></th></tr></thead><tbody><tr><td>Members</td><td>Patrick Palone</td></tr><tr><td>Location</td><td>Denver, USA</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="171" valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top">Members</td><td valign="top">Patrick Palone</td></tr><tr><td valign="top">Location</td><td valign="top">Denver, USA</td></tr></tbody></table>
 
 ### online
 

@@ -105,7 +105,6 @@
 ## Artists
 
 * [Musicians](artists/musicians/README.md)
-  * [Model artist page](artists/musicians/model-artist-page.md)
   * [Advanced Suite](artists/musicians/advanced-suite.md)
   * [Alterra Project](artists/musicians/alterra-project.md)
   * [Amritone](artists/musicians/amritone.md)
@@ -128,6 +127,7 @@
   * [Ekorce](artists/musicians/ekorce.md)
   * [Encounters](artists/musicians/encounters.md)
   * [Eurythmy](artists/musicians/eurythmy.md)
+  * [Model artist page](artists/musicians/model-artist-page.md)
   * [Faelow](artists/musicians/faelow.md)
   * [Forget The Technique](artists/musicians/forget-the-technique.md)
   * [Fractal Forest](artists/musicians/fractal-forest.md)
